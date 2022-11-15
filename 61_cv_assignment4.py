@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1apw3W4RLtfUccno12ZWk2LzZh4xrxpQU
 """
 
-! pip install streamlit
+# ! pip install streamlit
 
-!pip install streamlit_drawable_canvas
+# !pip install streamlit_drawable_canvas
 
 import cv2
 import numpy as np
