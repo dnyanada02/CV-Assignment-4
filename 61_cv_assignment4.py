@@ -36,8 +36,8 @@ def main():
 #     tabs = st.tabs(('Panorama Image'))
 
 
-    with tabs[1]:
-        panorama()
+#     with tabs[1]:
+#         panorama()
 
 # Pre-process Image
 def preProcessImg(img):
